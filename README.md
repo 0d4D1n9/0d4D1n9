@@ -8,13 +8,9 @@ Beyond that, I’m a huge fan of the Laravel Framework. Its well-organized ecosy
 
 In addition to designing and coding, I also write melancholic and atmospheric poetic prose. You can read some of my work [here](https://drive.google.com/drive/folders/1u-djJTQxXJ0dlK9oIF5KluBbg_NJvyGj?usp=sharing).
 
-🎨 Main focus: UI/UX Design
-💻 Currently learning: PHP with the Laravel framework
-🔥 Enthusiast: Laravel Framework
+Contact me on [LinkedIn](https://www.linkedin.com/in/gaiwi/).
 
-📫 Contact me on [LinkedIn](https://www.linkedin.com/in/gaiwi/).
-
-### 📊 Terakhir kali aku sedang:
+### 📊 Last time, I was:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
