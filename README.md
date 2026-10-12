@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/SurveySparrow-lost-404-on-space-UgRfRYyNnQlLXUoLk3" width="100%" alt="banner">
+<img src="assets/banner.gif" width="100%" alt="banner">
 
 Hi, I'm Zaky 👋
 
